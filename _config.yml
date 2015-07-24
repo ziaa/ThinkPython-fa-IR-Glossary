@@ -1,0 +1,8 @@
+title: Think Python Persian translation glossary
+description: "Think Python (book by Allen B. Downey) Persian translation glossary"
+sass:
+    style: :compressed
+
+#-- Local configuration
+port:    4000
+host:    127.0.0.1

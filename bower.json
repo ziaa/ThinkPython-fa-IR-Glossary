@@ -1,0 +1,15 @@
+{
+  "name": "Think Python Persian translation glossary",
+  "version": "0.0.1",
+  "homepage": "http://ziaa.github.io/ThinkPython-fa-IR-Glossary/",
+  "authors": [
+    "Seyed Zia Azimi <s.zia.azimi@gmail.com>"
+  ],
+  "description": "Think Python (book by Allen B. Downey) Persian translation glossary",
+  "main": "index.html",
+  "license": "CC0",
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "fontawesome": "~4.1.0"
+  }
+}
