@@ -51,3 +51,6 @@ ThinkPython-fa-IR-Glossary is licensed under [CC0](LICENSE.md).
 1. `script/bootstrap`
 2. `script/server`
 3. Open [localhost:4000](http://localhost:4000) in your browser
+
+## Special Thanks
+Thanks to [benbalter](http://github.com/benbalter), because the main repo forked from http://github.com/benbalter/government-glossary
