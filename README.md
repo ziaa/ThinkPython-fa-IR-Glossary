@@ -6,6 +6,10 @@
 
 The goal of this glossary is to create a list of common Persian translation terms to Keep translations of the [main project](https://github.com/itmard/think-python) consistent.
 
+## Translations
+Translations are available at https://github.com/ThinkPythonPersian/thinkbook.
+If you prefer Markdown, [here](https://github.com/behroozam/persianthinkpython) is the Markdown version
+
 ## Viewing the glossary
 
 * [HTML](http://ziaa.github.io/ThinkPython-fa-IR-Glossary/)
